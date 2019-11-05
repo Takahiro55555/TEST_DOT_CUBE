@@ -1,7 +1,10 @@
-# TEST_DOT_CUBE
+﻿# TEST_DOT_CUBE
 githubの練習
 
-aaaaaaa
+
+hogehoge
+
+aaaaaaaaaa
 
 write-zenito9970
 
